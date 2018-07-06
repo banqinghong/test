@@ -1,5 +1,4 @@
 # _*_ coding:utf-8 _*_
-import cx_Oracle
 import sys
 import calendar
 from pyecharts import Bar,Line
